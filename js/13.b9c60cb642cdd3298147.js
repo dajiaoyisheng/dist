@@ -1,0 +1,2 @@
+webpackJsonp([13],{QUHC:function(e,t){},sBUa:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{attrs:{id:"operation"}},[t("span",[this._v(this._s(this.message))])])},staticRenderFns:[]};var i=n("VU/8")({data:function(){return{message:"操作"}},methods:{},mounted:function(){}},s,!1,function(e){n("QUHC")},null,null);t.default=i.exports}});
+//# sourceMappingURL=13.b9c60cb642cdd3298147.js.map
